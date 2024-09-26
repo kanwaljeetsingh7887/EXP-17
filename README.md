@@ -29,6 +29,9 @@ This operation allows viewing the top element without removing it from the stack
 Stack Overflow: This occurs when trying to push an element onto a stack that has reached its maximum size. The array is full, and no more elements can be added.
 
 Stack Underflow: This occurs when trying to pop an element from an empty stack. There are no elements left to remove.
+
+
+
 ## Code: 17A
 (A) <br> 
 ```cpp
@@ -205,7 +208,12 @@ int main() {
     return 0;
 }
 ```
-## Code: 17B
+
+## Output:
+![image](https://github.com/user-attachments/assets/4722642c-c087-4388-9b39-c5ba3d50f5de)
+
+
+## Code: 17C
 ```cpp
 // NAME - Kanwaljeet singh
 // PRN - 23070123124
@@ -310,4 +318,4 @@ We learnt the implementation and study of Stack Implementation Using Array.]
 
 
 ### Conclusion:
-I learnt about Exception Handling in C++ and about its three keywords: try, catch and throw. 
+We learnt the implementation and study of Stack Implementation Using Array.]
