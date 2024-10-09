@@ -309,7 +309,8 @@ int main()
 }
 ```
 ## Output:
-We learnt the implementation and study of Stack Implementation Using Array.]
+![image](https://github.com/user-attachments/assets/7d7dc6c3-981d-419f-b156-6be17ae121e5)
+
 
 
 
